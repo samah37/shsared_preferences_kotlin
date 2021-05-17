@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">exo1tp7</string>
+    <string name="num_tel">Numero de mobile ou e-mail</string>
+    <string name="mdp">Mot de passe</string>
+    <string name="connect">Connexion</string>
+    <string name="mdp_oublie">Mot de passe oublie ?</string>
+    <string name="creer">Creer un compte</string>
+    <string name="langue">العربية</string>
+    <string name="quit">Deconnexion</string>
+    <string name="aide">Aide</string>
+    <string name="strings">mdp</string>
+    <string name="empty">" "</string>
 </resources>
